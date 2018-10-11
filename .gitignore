@@ -13,3 +13,6 @@
 
 # goenv
 .go-version
+
+# exercise binaries
+ex*
