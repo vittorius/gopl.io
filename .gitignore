@@ -17,3 +17,6 @@
 # exercise binaries
 ch*/ex*/ex*
 !ch*/ex*/*.go
+
+# particular exercises
+ch1/ex1_4/*.txt
