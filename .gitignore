@@ -15,4 +15,5 @@
 .go-version
 
 # exercise binaries
-ex*
+ch*/ex*/ex*
+!ch*/ex*/*.go
