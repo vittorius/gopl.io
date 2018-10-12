@@ -14,6 +14,7 @@ import (
 
 //!+
 func main() {
+	fmt.Println("Program name: " + os.Args[0])
 	fmt.Println(strings.Join(os.Args[1:], " "))
 }
 
